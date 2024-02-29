@@ -1,0 +1,1 @@
+/*Task: https://atcoder.jp/contests/abc340/tasks/abc340_c */
